@@ -1,2 +1,2 @@
 [workspace]
-members = ["aoclib", "dna", "rna", "revc"]
+members = ["aoclib", "dna", "rna", "revc", "fib"]
